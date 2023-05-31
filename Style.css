@@ -1,0 +1,54 @@
+.container{
+    /* background-color: red; */
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.row-one .btn{
+     padding: 13px 20px;
+     margin: 15px  6px;
+
+}
+
+.row-one button{
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row .btn{
+    padding: 15px 25px;
+    margin: 15px 5px;
+
+}
+
+.row button{
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+
+}
+
+.row input{
+   margin: 0px;
+   padding: 10px 30px;
+   border: 2px solid black;
+   border-radius: 5px;
+   font-size: 20px;
+}
+
+
+
+
+
+
+
+
